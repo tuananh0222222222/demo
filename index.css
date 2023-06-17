@@ -2,8 +2,11 @@ h1 {
     font-size: 40px;
 
 }
-h1:focus {
+h1:hover {
     background-color: aqua;
     width: 30px;
     height: 30px;
+}
+button:active {
+    color: #000;
 }
